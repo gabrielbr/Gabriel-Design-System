@@ -57,6 +57,8 @@ two-icon header, wide screens and large text.
 The second is **Oiê** (`gabrielbr/familyzap`, since 0.31.2). Its brand is its own new brand
 (`design/brand/oie/`), not a partner's, but it works the same way: a new brand that isn't
 Gabriel's lives in the product's repo, like a partner's, under the same brands rule.
+Since its 0.52 (2026-11-22), Oiê's app wears Material 3 Expressive with Material's defaults and
+keeps the core's frame, spacing, targets, one family and contrast: divergence D-15.
 
 ## Starting a new product with a partner brand
 

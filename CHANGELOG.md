@@ -3,6 +3,14 @@
 Semantic versioning (AGENTS.md "Versioning"). Each entry says what changed for each app and what
 the app has to do.
 
+## 0.32.2 — 2026-11-22
+
+**Divergence D-15: Oiê on Material 3 Expressive** (patch: docs only; no token, value or rule change for the other apps).
+- `docs/divergences.md`: D-15. Since its 0.52, Oiê's app uses Material 3 Expressive with Material's defaults: components, a scheme generated from its coral, Material's shapes and expressive motion. It keeps the core's frame, spacing, targets, one family, contrast, icons and self-update. The owner's decision, 2026-11-22.
+- `docs/products.md`: one line pointing at D-15.
+
+What each app has to do: nothing.
+
 ## 0.32.1 — 2026-11-18
 
 **Divergence D-14: Oiê's update sheet** (patch: docs only; no token, value or rule change for the other apps).
