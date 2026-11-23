@@ -20,7 +20,7 @@ page) and [docs/](docs/) (the long version).
 | GVoice, GMind, GMoney, GHealth, GDesk | `gabrielbr/NotTheOmiAIApp` (`ui-kit/`, `br.gabriel.ui`) | `uikit` | Android Views (Java), light + dark |
 | PulseLoop | `gabrielbr/PulseLoopAndroid` (`com.pulseloop.ui.theme`) | `pulseloop` | Jetpack Compose (Kotlin), dark only |
 | Cochilo (da Tatá Slings) | `gabrielbr/Cochilo` (`br.gabriel.cochilo.ui.theme`) | none here: its layer and the `tata-slings` brand are in its `design/` ([docs/products.md](docs/products.md)) | Jetpack Compose (Kotlin), light, dark and night |
-| Oiê | `gabrielbr/familyzap` (`app.oie.ui.theme`) | none here: its layer and the `oie` brand (its own new brand) are in its `design/`, on core 0.31.1 ([docs/products.md](docs/products.md)) | Jetpack Compose (Kotlin), light and dark; no screens yet |
+| Oiê | `gabrielbr/oie-dev` (`app.oie.ui.theme`) | none here: its layer and the `oie` brand (its own new brand) are in its `design/`, on core 0.31.1 ([docs/products.md](docs/products.md)) | Jetpack Compose (Kotlin), light and dark; Material 3 Expressive since its 0.52 (D-15) |
 
 GMind is called "Sentient" in its code. A new app gets a layer and a row here before its first screen.
 

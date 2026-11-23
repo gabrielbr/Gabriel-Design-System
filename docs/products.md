@@ -54,7 +54,7 @@ A product's own component can come here later, once a second app needs it. Rows 
 are now everyone's: the Quiet link, Checklist, the Conversation pattern, Filter chips, the
 two-icon header, wide screens and large text.
 
-The second is **Oiê** (`gabrielbr/familyzap`, since 0.31.2). Its brand is its own new brand
+The second is **Oiê** (`gabrielbr/oie-dev`, renamed from `familyzap` on 2026-11-23; here since 0.31.2). Its brand is its own new brand
 (`design/brand/oie/`), not a partner's, but it works the same way: a new brand that isn't
 Gabriel's lives in the product's repo, like a partner's, under the same brands rule.
 Since its 0.52 (2026-11-22), Oiê's app wears Material 3 Expressive with Material's defaults and
