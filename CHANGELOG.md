@@ -3,6 +3,14 @@
 Semantic versioning (AGENTS.md "Versioning"). Each entry says what changed for each app and what
 the app has to do.
 
+## 0.32.3 — 2026-11-23
+
+**Oiê's repository has a new name** (patch: docs only; no token, value or rule change).
+- `AGENTS.md`: Oiê's row points at `gabrielbr/oie-dev` (it was `gabrielbr/familyzap`; GitHub forwards the old address). The row's platform cell now says it has screens and wears Material 3 Expressive (D-15), instead of "no screens yet".
+- `docs/products.md`: the same address.
+
+What each app has to do: nothing.
+
 ## 0.32.2 — 2026-11-22
 
 **Divergence D-15: Oiê on Material 3 Expressive** (patch: docs only; no token, value or rule change for the other apps).
